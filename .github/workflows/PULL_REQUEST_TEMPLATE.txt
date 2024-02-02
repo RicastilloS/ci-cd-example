@@ -1,0 +1,22 @@
+## ¿Qué se trabajó?
+
+- [x] Tarea 1
+- [x] Tarea 2
+- [x] Tarea 3
+
+## CLOSED
+
+closed #001 (se anexa id de issue que se soluciona)
+
+## ¿Cómo QA puede verificar esto?
+
+Agregue pantallazos si es Frontend o App, comandos si es Backend, instrucciones o cualquier cosa
+que sirva para que se pueda verificar y así facilitar la revisión y aprobación.
+
+## EVIDENCIAS
+
+https://github.com/fragua/...
+
+## APK
+
+https://i.diawi.com/74P9ni
